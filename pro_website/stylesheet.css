@@ -1,3 +1,13 @@
-div{
+.top_Container{
     background-color: #FF6B6B;
+}
+.middle_Container{
+    background-color: #3700ff;
+    width: 200px;
+    height: 200px;
+}
+.bottom_Container{
+    background-color: #dc143c;
+    width: 200px;
+    height: 200px;
 }
